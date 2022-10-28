@@ -1,0 +1,13 @@
+#etchGrid{
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    height: 300px;
+    width: 300px;
+    background-color: red;
+}
+
+.etchBoxes{
+    background-color: aqua;
+    border: 1px solid black;
+}
