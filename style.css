@@ -2,12 +2,17 @@
     display: grid;
     grid-template-columns: auto;
     grid-template-rows: auto;
-    height: 300px;
-    width: 300px;
-    background-color: red;
+    height: 500px;
+    width: 500px;
+    background-color: black;
+    border: 3rem solid black;
 }
 
 .etchBoxes{
-    background-color: aqua;
+    background-color: white;
     border: 1px solid black;
+}
+
+.color-box{
+    background-color: aqua;
 }
